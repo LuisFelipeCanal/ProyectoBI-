@@ -1,0 +1,501 @@
+"ID",Fecha Adquisición,Fecha Venta,Producto,Marca,Talla,Precio Unitario (Compra),Precio Unitario (Venta),Descuento (%),Precio Final (Venta),Ingreso Total,Costo Total,Ganancia Total,Vendedor,ImageURL
+1,2020-01-05,2020-01-24,Camiseta,Nike,L,13.96,22.64,0,22.64,22.64,13.96,8.68,Sofía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+2,2020-01-12,2020-02-15,Zapatillas,Adidas,39,136.41,210.42,10,189.38,189.38,136.41,52.97,Ana,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+3,2020-01-18,2020-03-15,Medias,Puma,L,13.82,28.25,0,28.25,28.25,13.82,14.43,María,http://localhost:3001/uploads/Medias_Puma.jpg
+4,2020-01-21,2020-02-16,Zapatillas,Puma,38,147.14,348.25,10,313.43,313.43,147.14,166.29,Ana,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+5,2020-01-25,2020-02-15,Zapatillas,Adidas,40,149.56,229.61,15,195.17,195.17,149.56,45.61,Diego,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+6,2020-01-27,2020-04-13,Medias,Nike,Única,14.46,29.11,15,24.74,24.74,14.46,10.28,María,http://localhost:3001/uploads/Medias_Nike.jpg
+7,2020-02-07,2020-03-13,Camiseta,Nike,M,24.05,39.05,15,33.19,33.19,24.05,9.14,Sofía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+8,2020-02-16,2020-04-22,Pantalones,H&M,33,49.33,61.55,20,49.24,49.24,49.33,-0.09,María,http://localhost:3001/uploads/Pantalones_H_M.jpg
+9,2020-02-16,2020-06-03,Pantalones,Zara,32,66.22,102.23,20,81.78,81.78,66.22,15.56,María,http://localhost:3001/uploads/Pantalones_Zara.jpg
+10,2020-02-22,2020-03-23,Medias,Adidas,L,14.49,22.48,0,22.48,22.48,14.49,7.99,María,http://localhost:3001/uploads/Medias_Adidas.jpg
+11,2020-02-25,2020-03-01,Zapatillas,New Balance,40,219.44,288.9,15,245.56,245.56,219.44,26.12,Diego,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+12,2020-02-28,2020-04-08,Medias,Adidas,Única,14.64,24.07,10,21.66,21.66,14.64,7.02,María,http://localhost:3001/uploads/Medias_Adidas.jpg
+13,2020-03-03,2020-06-27,Camiseta,Puma,S,10.11,57.11,20,45.69,45.69,10.11,35.58,Carlos,http://localhost:3001/uploads/Camiseta_Puma.jpg
+14,2020-03-07,2020-03-11,Zapatillas,Puma,42,130.33,214.79,15,182.57,182.57,130.33,52.24,María,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+15,2020-03-08,2020-06-20,Pantalones,Levi's,30,45.65,67.71,5,64.32,64.32,45.65,18.67,Ana,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+16,2020-03-09,2020-06-12,Pantalones,Lee,29,40.32,68.61,0,68.61,68.61,40.32,28.29,María,http://localhost:3001/uploads/Pantalones_Lee.jpg
+17,2020-03-11,2020-07-06,Gorras,Under Armour,S,26.77,64.71,15,55,55,26.77,28.23,Carlos,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+18,2020-03-11,2020-05-06,Medias,Reebok,M,7.55,18.06,20,14.45,14.45,7.55,6.9,María,http://localhost:3001/uploads/Medias_Reebok.jpg
+19,2020-03-12,2020-06-24,Zapatillas,Nike,38,147.13,210.87,0,210.87,210.87,147.13,63.74,Ana,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+20,2020-03-21,2020-04-10,Zapatillas,Puma,39,204.61,345.35,0,345.35,345.35,204.61,140.74,Diego,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+21,2020-03-26,2020-06-30,Pantalones,Zara,28,69.17,111.3,0,111.3,111.3,69.17,42.13,Juan,http://localhost:3001/uploads/Pantalones_Zara.jpg
+22,2020-04-10,2020-07-28,Pantalones,Levi's,36,48.41,119.71,0,119.71,119.71,48.41,71.3,Diego,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+23,2020-04-13,2020-06-30,Pantalones,Zara,35,60.04,93.1,15,79.13,79.13,60.04,19.09,Sofía,http://localhost:3001/uploads/Pantalones_Zara.jpg
+24,2020-04-13,2020-07-16,Camiseta,Nike,M,16.58,38.85,0,38.85,38.85,16.58,22.27,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+25,2020-04-18,2020-05-23,Medias,Hanes,L,9.62,13.5,10,12.15,12.15,9.62,2.53,Ana,
+26,2020-04-29,2020-05-27,Medias,Puma,L,10.18,15.74,0,15.74,15.74,10.18,5.56,Lucía,http://localhost:3001/uploads/Medias_Puma.jpg
+27,2020-05-02,2020-08-21,Pantalones,Levi's,31,52.38,70.6,5,67.07,67.07,52.38,14.69,Diego,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+28,2020-05-03,2020-05-29,Camiseta,Puma,XL,11.48,20.84,10,18.76,18.76,11.48,7.28,Juan,http://localhost:3001/uploads/Camiseta_Puma.jpg
+29,2020-05-07,2020-07-12,Medias,Reebok,S,8.96,17.82,20,14.26,14.26,8.96,5.3,Lucía,http://localhost:3001/uploads/Medias_Reebok.jpg
+30,2020-05-08,2020-06-12,Zapatillas,Puma,42,157.98,333.23,15,283.25,283.25,157.98,125.27,Ana,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+31,2020-05-08,2020-05-27,Gorras,Puma,Ajustable,19.13,75.32,5,71.55,71.55,19.13,52.42,Carlos,
+32,2020-05-11,2020-05-14,Camiseta,H&M,L,19.36,21.42,10,19.28,19.28,19.36,-0.08,Diego,
+33,2020-05-18,2020-08-28,Medias,Reebok,S,9.77,10.34,0,10.34,10.34,9.77,0.57,Juan,http://localhost:3001/uploads/Medias_Reebok.jpg
+34,2020-05-23,2020-09-08,Camiseta,H&M,L,20.16,59.04,0,59.04,59.04,20.16,38.88,Ana,
+35,2020-05-25,2020-07-01,Gorras,Adidas,M,19.41,70.29,5,66.78,66.78,19.41,47.37,Lucía,
+36,2020-05-28,2020-09-12,Camiseta,H&M,S,32.24,35.13,5,33.37,33.37,32.24,1.13,María,
+37,2020-06-06,2020-06-10,Medias,Puma,XL,14.94,16.56,15,14.08,14.08,14.94,-0.86,Carlos,http://localhost:3001/uploads/Medias_Puma.jpg
+38,2020-06-16,2020-07-17,Gorras,Puma,S,20.07,35.34,10,31.81,31.81,20.07,11.74,Pedro,
+39,2020-06-21,2020-07-28,Camiseta,H&M,S,26.34,46.74,15,39.73,39.73,26.34,13.39,Lucía,
+40,2020-06-29,2020-07-08,Medias,Hanes,Única,11.52,23.24,15,19.75,19.75,11.52,8.23,Sofía,
+41,2020-07-11,2020-09-16,Gorras,Puma,L,19.71,43.9,0,43.9,43.9,19.71,24.19,María,
+42,2020-07-17,2020-10-12,Camiseta,Nike,XL,34.28,43.32,0,43.32,43.32,34.28,9.04,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+43,2020-07-20,2020-09-02,Pantalones,Levi's,35,48.56,114.36,20,91.49,91.49,48.56,42.93,Diego,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+44,2020-07-21,2020-10-11,Camiseta,Adidas,XL,34.86,55.33,5,52.56,52.56,34.86,17.7,Ana,
+45,2020-07-27,2020-09-25,Gorras,Adidas,M,34.38,37.98,0,37.98,37.98,34.38,3.6,Pedro,
+46,2020-07-30,2020-11-25,Gorras,Nike,Ajustable,23.84,32.29,0,32.29,32.29,23.84,8.45,Pedro,
+47,2020-07-31,2020-10-20,Medias,Hanes,XL,13.11,28.98,0,28.98,28.98,13.11,15.87,Pedro,
+48,2020-08-18,2020-11-05,Pantalones,Levi's,35,61.3,100.35,15,85.3,85.3,61.3,24,Carlos,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+49,2020-08-25,2020-10-05,Gorras,New Era,S,16.45,27.07,0,27.07,27.07,16.45,10.62,Sofía,
+50,2020-08-29,2020-09-29,Medias,Adidas,L,9.4,18.64,0,18.64,18.64,9.4,9.24,Lucía,http://localhost:3001/uploads/Medias_Adidas.jpg
+51,2020-08-31,2020-11-13,Zapatillas,Reebok,41,180.53,244.39,0,244.39,244.39,180.53,63.86,Carlos,
+52,2020-09-04,2020-09-09,Gorras,Under Armour,Ajustable,16.98,33.86,0,33.86,33.86,16.98,16.88,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+53,2020-09-10,2020-12-29,Medias,Reebok,XL,11.41,18.08,5,17.18,17.18,11.41,5.77,Carlos,http://localhost:3001/uploads/Medias_Reebok.jpg
+54,2020-09-11,2020-12-16,Medias,Reebok,L,9.12,14.34,20,11.47,11.47,9.12,2.35,Juan,http://localhost:3001/uploads/Medias_Reebok.jpg
+55,2020-09-17,2020-10-05,Camiseta,Puma,L,12.46,33.59,15,28.55,28.55,12.46,16.09,Pedro,http://localhost:3001/uploads/Camiseta_Puma.jpg
+56,2020-09-21,2020-09-27,Medias,Hanes,M,9.72,14.72,20,11.78,11.78,9.72,2.06,Diego,
+57,2020-09-22,2020-10-14,Medias,Adidas,S,12.45,20.37,20,16.3,16.3,12.45,3.85,Juan,http://localhost:3001/uploads/Medias_Adidas.jpg
+58,2020-09-23,2020-12-04,Zapatillas,Reebok,39,211.8,266.26,5,252.95,252.95,211.8,41.15,Carlos,
+59,2020-09-26,2020-12-15,Pantalones,Wrangler,31,45.87,96.42,10,86.78,86.78,45.87,40.91,Ana,
+60,2020-10-05,2020-12-14,Zapatillas,Adidas,41,135.39,240.68,15,204.58,204.58,135.39,69.19,Juan,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+61,2020-10-12,2020-11-16,Medias,Reebok,S,12.36,18.64,20,14.91,14.91,12.36,2.55,María,http://localhost:3001/uploads/Medias_Reebok.jpg
+62,2020-10-14,2021-01-01,Pantalones,Lee,38,56.16,71.36,0,71.36,71.36,56.16,15.2,María,http://localhost:3001/uploads/Pantalones_Lee.jpg
+63,2020-10-21,2020-11-16,Medias,Nike,Única,6.61,24.47,0,24.47,24.47,6.61,17.86,Ana,http://localhost:3001/uploads/Medias_Nike.jpg
+64,2020-10-23,2021-02-16,Gorras,Adidas,S,37.2,63.37,20,50.7,50.7,37.2,13.5,Sofía,
+65,2020-10-23,2020-11-05,Pantalones,Lee,33,40.96,97.79,10,88.01,88.01,40.96,47.05,Pedro,http://localhost:3001/uploads/Pantalones_Lee.jpg
+66,2020-10-26,2020-12-14,Camiseta,Nike,S,22.41,41.03,15,34.88,34.88,22.41,12.47,Diego,http://localhost:3001/uploads/Camiseta_Nike.jpg
+67,2020-10-30,2020-12-28,Gorras,Nike,L,36.29,55.84,0,55.84,55.84,36.29,19.55,Sofía,
+68,2020-11-01,2021-01-23,Medias,Reebok,S,13.62,23.57,10,21.21,21.21,13.62,7.59,Lucía,http://localhost:3001/uploads/Medias_Reebok.jpg
+69,2020-11-10,2021-03-02,Camiseta,Uniqlo,S,27.1,43.23,20,34.58,34.58,27.1,7.48,María,
+70,2020-11-11,2020-12-06,Zapatillas,Puma,44,189.84,207.67,0,207.67,207.67,189.84,17.83,Sofía,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+71,2020-11-12,2020-12-10,Camiseta,Uniqlo,XL,30.67,53.07,0,53.07,53.07,30.67,22.4,Lucía,
+72,2020-11-27,2021-01-26,Medias,Nike,XL,12.49,16.42,10,14.78,14.78,12.49,2.29,María,http://localhost:3001/uploads/Medias_Nike.jpg
+73,2020-12-18,2021-03-18,Medias,Puma,Única,12.44,13.61,20,10.89,10.89,12.44,-1.55,Sofía,http://localhost:3001/uploads/Medias_Puma.jpg
+74,2020-12-18,2021-02-06,Camiseta,H&M,L,20.69,45.84,5,43.55,43.55,20.69,22.86,Carlos,
+75,2020-12-20,2021-03-09,Camiseta,Nike,S,17.4,57.31,0,57.31,57.31,17.4,39.91,Juan,http://localhost:3001/uploads/Camiseta_Nike.jpg
+76,2020-12-22,2021-01-31,Camiseta,Adidas,M,24.17,41.95,0,41.95,41.95,24.17,17.78,Juan,
+77,2020-12-25,2021-01-08,Camiseta,Nike,XL,33.46,36.36,0,36.36,36.36,33.46,2.9,Pedro,http://localhost:3001/uploads/Camiseta_Nike.jpg
+78,2020-12-29,2021-03-31,Camiseta,Adidas,M,12.96,29.91,0,29.91,29.91,12.96,16.95,Carlos,
+79,2021-01-03,2021-04-30,Zapatillas,Adidas,41,149.43,299.03,0,299.03,299.03,149.43,149.6,Juan,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+80,2021-01-08,2021-03-04,Medias,Puma,M,11.55,25.18,15,21.4,21.4,11.55,9.85,Juan,http://localhost:3001/uploads/Medias_Puma.jpg
+81,2021-01-20,2021-04-14,Zapatillas,Reebok,40,135.34,300.39,5,285.37,285.37,135.34,150.03,Carlos,
+82,2021-01-21,2021-02-24,Zapatillas,Adidas,38,156.69,255.63,20,204.5,204.5,156.69,47.81,Ana,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+83,2021-01-22,2021-04-16,Camiseta,Nike,XL,23.05,29.21,5,27.75,27.75,23.05,4.7,Pedro,http://localhost:3001/uploads/Camiseta_Nike.jpg
+84,2021-02-03,2021-05-02,Gorras,Puma,M,15.33,28.91,10,26.02,26.02,15.33,10.69,Diego,
+85,2021-02-10,2021-02-15,Medias,Hanes,Única,9.85,12.76,5,12.12,12.12,9.85,2.27,Juan,
+86,2021-02-10,2021-03-19,Pantalones,Levi's,36,62.74,78.18,15,66.45,66.45,62.74,3.71,Sofía,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+87,2021-02-18,2021-04-07,Medias,Adidas,L,7.87,29.46,20,23.57,23.57,7.87,15.7,María,http://localhost:3001/uploads/Medias_Adidas.jpg
+88,2021-02-21,2021-03-10,Gorras,New Era,S,16.94,57.55,0,57.55,57.55,16.94,40.61,Lucía,
+89,2021-02-27,2021-06-02,Camiseta,Nike,L,20.61,55.35,5,52.58,52.58,20.61,31.97,Juan,http://localhost:3001/uploads/Camiseta_Nike.jpg
+90,2021-03-09,2021-06-05,Medias,Adidas,XL,12.72,19.83,15,16.86,16.86,12.72,4.14,Sofía,http://localhost:3001/uploads/Medias_Adidas.jpg
+91,2021-03-23,2021-04-24,Medias,Reebok,XL,13.49,28.08,0,28.08,28.08,13.49,14.59,Ana,http://localhost:3001/uploads/Medias_Reebok.jpg
+92,2021-03-24,2021-06-20,Zapatillas,Reebok,43,216.32,240.4,15,204.34,204.34,216.32,-11.98,Lucía,
+93,2021-03-28,2021-04-19,Camiseta,Uniqlo,S,13.67,50.44,0,50.44,50.44,13.67,36.77,María,
+94,2021-03-29,2021-04-23,Gorras,Adidas,M,19.67,45.07,5,42.82,42.82,19.67,23.15,María,
+95,2021-04-05,2021-07-07,Pantalones,H&M,31,43.28,117.89,15,100.21,100.21,43.28,56.93,Juan,http://localhost:3001/uploads/Pantalones_H_M.jpg
+96,2021-04-05,2021-05-14,Pantalones,Lee,31,43.57,66.77,0,66.77,66.77,43.57,23.2,Ana,http://localhost:3001/uploads/Pantalones_Lee.jpg
+97,2021-04-11,2021-05-09,Gorras,Adidas,M,37.92,40.11,0,40.11,40.11,37.92,2.19,Diego,
+98,2021-04-13,2021-06-17,Zapatillas,Adidas,43,186.54,243.83,5,231.64,231.64,186.54,45.1,Lucía,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+99,2021-04-14,2021-06-12,Gorras,Under Armour,XL,39.36,73.55,10,66.19,66.19,39.36,26.83,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+100,2021-04-16,2021-07-24,Zapatillas,Reebok,39,187,334.59,5,317.86,317.86,187,130.86,Carlos,
+101,2021-04-20,2021-05-28,Medias,Hanes,M,7.6,9.36,10,8.42,8.42,7.6,0.82,Ana,
+102,2021-04-21,2021-07-02,Pantalones,Wrangler,30,66,95.12,15,80.85,80.85,66,14.85,Juan,
+103,2021-04-29,2021-07-26,Pantalones,H&M,29,43.79,116.19,5,110.38,110.38,43.79,66.59,Lucía,http://localhost:3001/uploads/Pantalones_H_M.jpg
+104,2021-05-01,2021-05-08,Medias,Puma,M,7.15,29.24,20,23.39,23.39,7.15,16.24,Sofía,http://localhost:3001/uploads/Medias_Puma.jpg
+105,2021-05-06,2021-06-02,Medias,Adidas,S,11.56,25.06,0,25.06,25.06,11.56,13.5,Sofía,http://localhost:3001/uploads/Medias_Adidas.jpg
+106,2021-05-06,2021-07-28,Medias,Nike,XL,5.83,12.91,0,12.91,12.91,5.83,7.08,Pedro,http://localhost:3001/uploads/Medias_Nike.jpg
+107,2021-05-14,2021-05-28,Zapatillas,Nike,38,122.67,205.38,0,205.38,205.38,122.67,82.71,Ana,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+108,2021-05-14,2021-07-07,Camiseta,Nike,XS,29.89,35.44,20,28.35,28.35,29.89,-1.54,Lucía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+109,2021-05-21,2021-06-17,Gorras,Under Armour,S,16.17,61.99,20,49.59,49.59,16.17,33.42,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+110,2021-05-25,2021-09-08,Zapatillas,Adidas,38,156.05,231,0,231,231,156.05,74.95,Carlos,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+111,2021-05-31,2021-06-13,Medias,Nike,Única,13.3,22.09,15,18.78,18.78,13.3,5.48,María,http://localhost:3001/uploads/Medias_Nike.jpg
+112,2021-06-07,2021-08-01,Pantalones,H&M,37,51.67,98.42,5,93.5,93.5,51.67,41.83,Carlos,http://localhost:3001/uploads/Pantalones_H_M.jpg
+113,2021-06-10,2021-09-15,Zapatillas,Puma,43,158.48,329.55,20,263.64,263.64,158.48,105.16,Lucía,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+114,2021-06-11,2021-08-13,Zapatillas,Puma,38,205.36,217.55,0,217.55,217.55,205.36,12.19,Carlos,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+115,2021-06-15,2021-08-01,Medias,Nike,Única,14.46,28.98,0,28.98,28.98,14.46,14.52,Ana,http://localhost:3001/uploads/Medias_Nike.jpg
+116,2021-06-29,2021-10-14,Zapatillas,Adidas,44,192.59,218.62,15,185.83,185.83,192.59,-6.76,Pedro,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+117,2021-07-09,2021-09-25,Camiseta,Puma,M,33.77,58.58,10,52.72,52.72,33.77,18.95,Lucía,http://localhost:3001/uploads/Camiseta_Puma.jpg
+118,2021-07-13,2021-08-09,Gorras,Nike,Ajustable,33.43,68.14,0,68.14,68.14,33.43,34.71,Ana,
+119,2021-07-19,2021-09-05,Zapatillas,Puma,42,147.84,341.54,20,273.23,273.23,147.84,125.39,María,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+120,2021-07-23,2021-08-29,Gorras,Puma,S,15.92,32.44,0,32.44,32.44,15.92,16.52,María,
+121,2021-07-25,2021-09-17,Pantalones,Levi's,29,68.19,74.28,15,63.14,63.14,68.19,-5.05,Juan,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+122,2021-07-28,2021-11-12,Camiseta,H&M,L,23.23,31.98,15,27.18,27.18,23.23,3.95,Pedro,
+123,2021-08-05,2021-08-09,Gorras,New Era,XL,27.39,47.21,10,42.49,42.49,27.39,15.1,Juan,
+124,2021-08-08,2021-10-01,Medias,Reebok,Única,11.24,14.59,0,14.59,14.59,11.24,3.35,Ana,http://localhost:3001/uploads/Medias_Reebok.jpg
+125,2021-08-08,2021-11-08,Gorras,Nike,M,31.2,73.5,0,73.5,73.5,31.2,42.3,María,
+126,2021-08-20,2021-11-02,Camiseta,Uniqlo,S,23.27,37.05,0,37.05,37.05,23.27,13.78,Juan,
+127,2021-08-21,2021-10-07,Camiseta,H&M,XL,29.98,36.44,0,36.44,36.44,29.98,6.46,María,
+128,2021-08-24,2021-10-26,Camiseta,Uniqlo,XS,30.04,33.82,15,28.75,28.75,30.04,-1.29,María,
+129,2021-09-03,2021-11-20,Zapatillas,Reebok,42,129.82,235.9,0,235.9,235.9,129.82,106.08,María,
+130,2021-09-04,2021-12-26,Camiseta,Adidas,XS,31.76,44.07,15,37.46,37.46,31.76,5.7,Carlos,
+131,2021-09-11,2021-12-09,Camiseta,Puma,L,27.03,46.53,10,41.88,41.88,27.03,14.85,Sofía,http://localhost:3001/uploads/Camiseta_Puma.jpg
+132,2021-09-17,2021-11-03,Pantalones,Zara,36,41.03,116.33,15,98.88,98.88,41.03,57.85,Ana,http://localhost:3001/uploads/Pantalones_Zara.jpg
+133,2021-09-26,2021-10-08,Medias,Adidas,M,6.27,8.48,15,7.21,7.21,6.27,0.94,Pedro,http://localhost:3001/uploads/Medias_Adidas.jpg
+134,2021-09-26,2021-11-29,Medias,Adidas,XL,7.79,20.5,20,16.4,16.4,7.79,8.61,Pedro,http://localhost:3001/uploads/Medias_Adidas.jpg
+135,2021-10-01,2021-10-13,Medias,Puma,S,6.97,29.63,15,25.19,25.19,6.97,18.22,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+136,2021-10-01,2021-12-11,Camiseta,Adidas,L,29.34,46.93,20,37.54,37.54,29.34,8.2,Juan,
+137,2021-10-03,2022-01-13,Zapatillas,New Balance,40,129.93,320.78,10,288.7,288.7,129.93,158.77,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+138,2021-10-03,2021-11-23,Pantalones,Wrangler,30,48.47,80.58,0,80.58,80.58,48.47,32.11,María,
+139,2021-10-05,2021-11-22,Camiseta,Adidas,XS,24.02,27.02,20,21.62,21.62,24.02,-2.4,Ana,
+140,2021-10-08,2022-01-22,Gorras,Nike,XL,35.23,48.42,0,48.42,48.42,35.23,13.19,María,
+141,2021-10-12,2021-11-23,Gorras,New Era,XL,26.61,39.59,5,37.61,37.61,26.61,11,Diego,
+142,2021-10-19,2021-11-14,Pantalones,Wrangler,30,55.28,63.27,0,63.27,63.27,55.28,7.99,María,
+143,2021-10-20,2021-11-05,Medias,Adidas,S,12.3,26.31,5,24.99,24.99,12.3,12.69,Pedro,http://localhost:3001/uploads/Medias_Adidas.jpg
+144,2021-10-21,2021-12-13,Medias,Adidas,M,8.72,29.94,5,28.44,28.44,8.72,19.72,Sofía,http://localhost:3001/uploads/Medias_Adidas.jpg
+145,2021-10-30,2021-12-30,Camiseta,Adidas,XS,33.88,42.96,15,36.52,36.52,33.88,2.64,Lucía,
+146,2021-11-05,2022-02-23,Medias,Reebok,Única,10.79,18.99,15,16.14,16.14,10.79,5.35,Pedro,http://localhost:3001/uploads/Medias_Reebok.jpg
+147,2021-11-17,2021-12-03,Camiseta,Nike,M,18.33,22.06,10,19.85,19.85,18.33,1.52,Lucía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+148,2021-11-23,2022-03-16,Zapatillas,Reebok,39,146.88,216.92,0,216.92,216.92,146.88,70.04,Juan,
+149,2021-11-26,2021-12-19,Gorras,Puma,Ajustable,21.61,35.58,0,35.58,35.58,21.61,13.97,Diego,
+150,2021-11-27,2022-01-19,Medias,Nike,L,5.73,22.8,0,22.8,22.8,5.73,17.07,María,http://localhost:3001/uploads/Medias_Nike.jpg
+151,2021-11-30,2021-12-16,Gorras,New Era,M,15.93,32.35,0,32.35,32.35,15.93,16.42,María,
+152,2021-12-03,2022-03-21,Medias,Hanes,Única,6.02,18.54,0,18.54,18.54,6.02,12.52,Lucía,
+153,2021-12-05,2022-01-08,Camiseta,Uniqlo,XS,30.05,49.35,15,41.95,41.95,30.05,11.9,Sofía,
+154,2021-12-08,2022-03-11,Pantalones,Wrangler,35,44.11,103.71,0,103.71,103.71,44.11,59.6,Lucía,
+155,2021-12-10,2022-02-06,Camiseta,Uniqlo,XS,26.11,54.85,0,54.85,54.85,26.11,28.74,Pedro,
+156,2021-12-12,2022-03-21,Medias,Reebok,Única,10.76,16.52,0,16.52,16.52,10.76,5.76,Diego,http://localhost:3001/uploads/Medias_Reebok.jpg
+157,2021-12-13,2022-02-12,Zapatillas,Adidas,45,174.14,270.64,15,230.04,230.04,174.14,55.9,Pedro,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+158,2021-12-15,2022-04-06,Zapatillas,Adidas,38,197.33,274.71,15,233.5,233.5,197.33,36.17,Sofía,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+159,2021-12-26,2022-01-19,Camiseta,Nike,M,19.7,54.17,15,46.04,46.04,19.7,26.34,Sofía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+160,2021-12-29,2022-01-14,Camiseta,Uniqlo,XS,10.76,24.35,0,24.35,24.35,10.76,13.59,Sofía,
+161,2021-12-31,2022-03-19,Gorras,Adidas,L,30.32,65.08,0,65.08,65.08,30.32,34.76,Pedro,
+162,2022-01-08,2022-03-07,Zapatillas,Reebok,43,176.8,312.01,15,265.21,265.21,176.8,88.41,Diego,
+163,2022-01-14,2022-03-26,Gorras,Nike,M,23.5,78.2,0,78.2,78.2,23.5,54.7,Ana,
+164,2022-01-20,2022-03-07,Zapatillas,Puma,45,183.94,241.99,10,217.79,217.79,183.94,33.85,Juan,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+165,2022-01-23,2022-04-28,Zapatillas,New Balance,44,150.67,331.8,20,265.44,265.44,150.67,114.77,Lucía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+166,2022-01-25,2022-02-21,Gorras,New Era,L,34.98,56.31,5,53.49,53.49,34.98,18.51,Diego,
+167,2022-01-28,2022-05-11,Zapatillas,New Balance,39,189.4,287.65,5,273.27,273.27,189.4,83.87,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+168,2022-01-29,2022-04-05,Medias,Puma,M,7.09,24.99,0,24.99,24.99,7.09,17.9,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+169,2022-02-02,2022-04-23,Camiseta,Uniqlo,L,23.74,57.45,5,54.58,54.58,23.74,30.84,Juan,
+170,2022-02-07,2022-05-24,Camiseta,Adidas,M,20.93,57.16,5,54.3,54.3,20.93,33.37,Sofía,
+171,2022-02-09,2022-06-04,Gorras,Adidas,M,30.79,39.86,5,37.87,37.87,30.79,7.08,Juan,
+172,2022-02-16,2022-05-09,Medias,Nike,Única,14.98,23.45,5,22.28,22.28,14.98,7.3,Carlos,http://localhost:3001/uploads/Medias_Nike.jpg
+173,2022-02-20,2022-03-28,Pantalones,Zara,37,67.6,104.49,5,99.27,99.27,67.6,31.67,Diego,http://localhost:3001/uploads/Pantalones_Zara.jpg
+174,2022-02-25,2022-05-01,Pantalones,Zara,36,44.15,114.83,0,114.83,114.83,44.15,70.68,Sofía,http://localhost:3001/uploads/Pantalones_Zara.jpg
+175,2022-02-26,2022-06-17,Zapatillas,New Balance,41,164.28,215.24,10,193.72,193.72,164.28,29.44,Ana,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+176,2022-03-01,2022-04-20,Camiseta,Adidas,S,22.97,25.4,5,24.13,24.13,22.97,1.16,Ana,
+177,2022-03-03,2022-03-21,Medias,Adidas,XL,5.54,10.64,10,9.58,9.58,5.54,4.04,María,http://localhost:3001/uploads/Medias_Adidas.jpg
+178,2022-03-06,2022-05-21,Pantalones,H&M,34,41.46,110.49,0,110.49,110.49,41.46,69.03,Carlos,http://localhost:3001/uploads/Pantalones_H_M.jpg
+179,2022-03-10,2022-06-17,Camiseta,Adidas,XS,33.54,42.07,20,33.66,33.66,33.54,0.12,Sofía,
+180,2022-03-11,2022-04-08,Pantalones,Zara,37,47.35,79.05,0,79.05,79.05,47.35,31.7,Juan,http://localhost:3001/uploads/Pantalones_Zara.jpg
+181,2022-03-11,2022-05-04,Camiseta,Nike,XL,11.49,59.91,15,50.92,50.92,11.49,39.43,Juan,http://localhost:3001/uploads/Camiseta_Nike.jpg
+182,2022-03-12,2022-07-04,Pantalones,Lee,35,44.54,81,10,72.9,72.9,44.54,28.36,María,http://localhost:3001/uploads/Pantalones_Lee.jpg
+183,2022-03-20,2022-04-20,Medias,Puma,Única,14.14,26.21,0,26.21,26.21,14.14,12.07,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+184,2022-03-30,2022-05-11,Gorras,Under Armour,L,32.59,70.78,5,67.24,67.24,32.59,34.65,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+185,2022-04-02,2022-07-15,Pantalones,Lee,29,58.02,102.28,15,86.94,86.94,58.02,28.92,Sofía,http://localhost:3001/uploads/Pantalones_Lee.jpg
+186,2022-04-11,2022-06-04,Camiseta,Uniqlo,XL,16.52,36.13,5,34.32,34.32,16.52,17.8,Sofía,
+187,2022-04-20,2022-04-24,Camiseta,Puma,M,24.5,32.14,0,32.14,32.14,24.5,7.64,Ana,http://localhost:3001/uploads/Camiseta_Puma.jpg
+188,2022-04-20,2022-06-29,Medias,Adidas,L,9.43,28.56,0,28.56,28.56,9.43,19.13,María,http://localhost:3001/uploads/Medias_Adidas.jpg
+189,2022-04-24,2022-05-05,Medias,Hanes,M,8.26,24.14,20,19.31,19.31,8.26,11.05,Carlos,
+190,2022-04-24,2022-07-04,Gorras,New Era,Ajustable,26.71,45.58,5,43.3,43.3,26.71,16.59,Carlos,
+191,2022-04-30,2022-08-09,Medias,Nike,XL,6.23,26.1,0,26.1,26.1,6.23,19.87,Ana,http://localhost:3001/uploads/Medias_Nike.jpg
+192,2022-05-31,2022-07-25,Gorras,Adidas,Ajustable,36.39,41.07,10,36.96,36.96,36.39,0.57,María,
+193,2022-06-01,2022-06-25,Gorras,Adidas,S,15.6,63.93,0,63.93,63.93,15.6,48.33,Diego,
+194,2022-06-18,2022-06-23,Zapatillas,Adidas,41,163.08,200.44,15,170.37,170.37,163.08,7.29,Juan,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+195,2022-07-01,2022-08-04,Medias,Reebok,S,10.63,24.95,20,19.96,19.96,10.63,9.33,Diego,http://localhost:3001/uploads/Medias_Reebok.jpg
+196,2022-07-08,2022-08-08,Camiseta,Nike,XS,22.41,28.83,0,28.83,28.83,22.41,6.42,Ana,http://localhost:3001/uploads/Camiseta_Nike.jpg
+197,2022-07-10,2022-09-06,Medias,Nike,M,11.77,15.47,0,15.47,15.47,11.77,3.7,María,http://localhost:3001/uploads/Medias_Nike.jpg
+198,2022-07-19,2022-10-06,Pantalones,Levi's,29,47.54,98.67,0,98.67,98.67,47.54,51.13,Lucía,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+199,2022-07-24,2022-08-31,Gorras,Under Armour,Ajustable,16.99,58.17,10,52.35,52.35,16.99,35.36,Lucía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+200,2022-08-05,2022-11-29,Camiseta,Adidas,S,17.63,26.79,0,26.79,26.79,17.63,9.16,Pedro,
+201,2022-08-07,2022-11-18,Gorras,Under Armour,XL,29.33,36.57,10,32.91,32.91,29.33,3.58,Sofía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+202,2022-08-17,2022-09-16,Gorras,Nike,M,19.33,65.47,20,52.38,52.38,19.33,33.05,Sofía,
+203,2022-08-18,2022-09-26,Camiseta,Uniqlo,XL,14.42,49.09,0,49.09,49.09,14.42,34.67,Carlos,
+204,2022-08-22,2022-12-18,Medias,Hanes,XL,13.46,18.79,10,16.91,16.91,13.46,3.45,Diego,
+205,2022-08-27,2022-10-31,Pantalones,Wrangler,36,63.44,114.59,0,114.59,114.59,63.44,51.15,Sofía,
+206,2022-09-01,2022-12-28,Zapatillas,Reebok,43,122.5,204.38,20,163.5,163.5,122.5,41,Diego,
+207,2022-09-03,2022-12-29,Medias,Puma,S,12.38,21.29,20,17.03,17.03,12.38,4.65,Juan,http://localhost:3001/uploads/Medias_Puma.jpg
+208,2022-09-06,2022-12-02,Camiseta,Uniqlo,M,16.91,54.53,5,51.8,51.8,16.91,34.89,Pedro,
+209,2022-09-12,2022-10-04,Gorras,Adidas,M,33.57,39.05,0,39.05,39.05,33.57,5.48,María,
+210,2022-09-13,2022-11-25,Medias,Hanes,L,11.03,22.96,0,22.96,22.96,11.03,11.93,Carlos,
+211,2022-09-15,2022-11-20,Camiseta,Nike,S,26.14,48.77,0,48.77,48.77,26.14,22.63,María,http://localhost:3001/uploads/Camiseta_Nike.jpg
+212,2022-09-18,2023-01-08,Gorras,Adidas,L,33.47,54.27,0,54.27,54.27,33.47,20.8,Pedro,
+213,2022-09-21,2022-12-10,Medias,Reebok,L,14.57,26.57,0,26.57,26.57,14.57,12,Pedro,http://localhost:3001/uploads/Medias_Reebok.jpg
+214,2022-09-22,2023-01-19,Zapatillas,Adidas,41,159.46,205.54,0,205.54,205.54,159.46,46.08,Ana,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+215,2022-09-29,2022-12-03,Camiseta,Nike,M,28.54,32.05,20,25.64,25.64,28.54,-2.9,Juan,http://localhost:3001/uploads/Camiseta_Nike.jpg
+216,2022-09-30,2022-12-06,Medias,Adidas,L,13.59,16.23,0,16.23,16.23,13.59,2.64,Carlos,http://localhost:3001/uploads/Medias_Adidas.jpg
+217,2022-10-08,2022-11-03,Pantalones,Wrangler,38,44.12,68.4,10,61.56,61.56,44.12,17.44,María,
+218,2022-10-16,2022-11-11,Camiseta,H&M,XS,16.16,33.93,10,30.54,30.54,16.16,14.38,Diego,
+219,2022-10-18,2023-02-09,Gorras,Puma,XL,21.74,65.67,0,65.67,65.67,21.74,43.93,Pedro,
+220,2022-10-18,2022-12-28,Pantalones,Lee,29,45.46,104.79,0,104.79,104.79,45.46,59.33,Sofía,http://localhost:3001/uploads/Pantalones_Lee.jpg
+221,2022-10-26,2023-01-27,Zapatillas,Reebok,40,179.54,236.96,0,236.96,236.96,179.54,57.42,Ana,
+222,2022-11-03,2023-02-18,Pantalones,Levi's,35,48.41,77.8,0,77.8,77.8,48.41,29.39,Juan,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+223,2022-11-07,2022-12-18,Gorras,Puma,XL,23.63,44.29,20,35.43,35.43,23.63,11.8,María,
+224,2022-11-08,2022-12-28,Camiseta,Puma,XS,22.74,36.52,20,29.22,29.22,22.74,6.48,Lucía,http://localhost:3001/uploads/Camiseta_Puma.jpg
+225,2022-11-16,2022-12-10,Camiseta,H&M,XL,33.74,50.15,20,40.12,40.12,33.74,6.38,Ana,
+226,2022-11-17,2023-01-17,Medias,Reebok,L,10.42,26.7,15,22.7,22.7,10.42,12.28,Sofía,http://localhost:3001/uploads/Medias_Reebok.jpg
+227,2022-11-22,2022-12-20,Camiseta,Puma,S,33.29,45.09,0,45.09,45.09,33.29,11.8,Juan,http://localhost:3001/uploads/Camiseta_Puma.jpg
+228,2022-11-27,2023-01-19,Pantalones,Wrangler,31,50.31,82.18,0,82.18,82.18,50.31,31.87,Diego,
+229,2022-11-27,2023-02-20,Medias,Nike,S,11.65,27.15,20,21.72,21.72,11.65,10.07,Juan,http://localhost:3001/uploads/Medias_Nike.jpg
+230,2022-11-28,2023-01-17,Medias,Hanes,XL,13.84,21.76,0,21.76,21.76,13.84,7.92,Ana,
+231,2022-11-30,2023-02-28,Zapatillas,Reebok,43,147.17,313.66,0,313.66,313.66,147.17,166.49,Diego,
+232,2022-12-01,2023-01-18,Zapatillas,New Balance,39,150.91,348.97,0,348.97,348.97,150.91,198.06,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+233,2022-12-08,2023-01-13,Zapatillas,New Balance,39,188.63,336.68,0,336.68,336.68,188.63,148.05,Carlos,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+234,2023-01-05,2023-04-12,Gorras,Nike,XL,29.45,63.53,5,60.35,60.35,29.45,30.9,Diego,
+235,2023-01-05,2023-02-08,Zapatillas,Nike,45,161.16,207.92,10,187.13,187.13,161.16,25.97,Lucía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+236,2023-01-08,2023-01-24,Zapatillas,Nike,38,157.36,342.38,0,342.38,342.38,157.36,185.02,Diego,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+237,2023-01-08,2023-01-31,Zapatillas,Nike,43,154.31,259.12,10,233.21,233.21,154.31,78.9,Sofía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+238,2023-01-21,2023-04-21,Gorras,Nike,Ajustable,27.72,29.67,10,26.7,26.7,27.72,-1.02,Diego,
+239,2023-01-22,2023-04-26,Zapatillas,New Balance,45,143.32,295.04,5,280.29,280.29,143.32,136.97,Diego,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+240,2023-01-25,2023-04-04,Camiseta,H&M,XS,25.82,57.54,10,51.79,51.79,25.82,25.97,Pedro,
+241,2023-02-02,2023-02-08,Pantalones,Lee,38,67.31,112.86,20,90.29,90.29,67.31,22.98,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+242,2023-02-04,2023-05-29,Pantalones,Lee,38,61.47,83.09,10,74.78,74.78,61.47,13.31,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+243,2023-02-08,2023-03-08,Pantalones,Wrangler,28,45.74,73.87,0,73.87,73.87,45.74,28.13,Diego,
+244,2023-02-13,2023-04-07,Camiseta,H&M,L,26.35,57.01,10,51.31,51.31,26.35,24.96,Sofía,
+245,2023-02-16,2023-03-30,Medias,Puma,M,10.73,28.59,20,22.87,22.87,10.73,12.14,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+246,2023-02-20,2023-02-27,Medias,Nike,L,10.26,24.21,15,20.58,20.58,10.26,10.32,Carlos,http://localhost:3001/uploads/Medias_Nike.jpg
+247,2023-02-22,2023-06-09,Zapatillas,New Balance,44,121.83,184.71,5,175.47,175.47,121.83,53.64,Carlos,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+248,2023-02-23,2023-06-14,Pantalones,Levi's,38,41.02,81.69,0,81.69,81.69,41.02,40.67,Pedro,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+249,2023-02-24,2023-02-26,Pantalones,H&M,35,69.35,101.89,0,101.89,101.89,69.35,32.54,Pedro,http://localhost:3001/uploads/Pantalones_H_M.jpg
+250,2023-03-05,2023-04-04,Camiseta,Nike,XS,11.6,22.1,15,18.79,18.79,11.6,7.19,Pedro,http://localhost:3001/uploads/Camiseta_Nike.jpg
+251,2023-03-08,2023-03-27,Gorras,Adidas,M,20.83,75.05,0,75.05,75.05,20.83,54.22,Diego,
+252,2023-03-09,2023-05-21,Pantalones,Wrangler,32,66.76,77.54,15,65.91,65.91,66.76,-0.85,Diego,
+253,2023-03-13,2023-07-10,Gorras,Puma,L,25.09,57.05,0,57.05,57.05,25.09,31.96,Carlos,
+254,2023-03-14,2023-04-30,Zapatillas,Puma,40,205.68,257.84,0,257.84,257.84,205.68,52.16,Lucía,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+255,2023-03-16,2023-06-12,Zapatillas,Reebok,41,208.58,305.4,5,290.13,290.13,208.58,81.55,Carlos,
+256,2023-03-17,2023-06-11,Gorras,Nike,L,24.8,34.96,5,33.21,33.21,24.8,8.41,Lucía,
+257,2023-03-21,2023-06-11,Gorras,New Era,L,37.43,41.68,0,41.68,41.68,37.43,4.25,Carlos,
+258,2023-03-25,2023-06-23,Gorras,Under Armour,M,39.76,65.14,20,52.11,52.11,39.76,12.35,Pedro,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+259,2023-04-08,2023-06-15,Zapatillas,Reebok,39,140.16,230.65,15,196.05,196.05,140.16,55.89,Lucía,
+260,2023-04-10,2023-04-12,Pantalones,Wrangler,33,44.75,68.38,15,58.12,58.12,44.75,13.37,Juan,
+261,2023-04-17,2023-05-14,Medias,Puma,M,10.81,29.87,10,26.88,26.88,10.81,16.07,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+262,2023-04-18,2023-07-12,Pantalones,Zara,34,67.49,76.74,15,65.23,65.23,67.49,-2.26,Ana,http://localhost:3001/uploads/Pantalones_Zara.jpg
+263,2023-04-20,2023-06-20,Camiseta,Puma,XS,10.11,28.62,20,22.9,22.9,10.11,12.79,Diego,http://localhost:3001/uploads/Camiseta_Puma.jpg
+264,2023-04-24,2023-07-08,Gorras,Under Armour,S,34.44,72.26,15,61.42,61.42,34.44,26.98,Ana,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+265,2023-04-25,2023-08-05,Zapatillas,New Balance,45,200.7,263.77,0,263.77,263.77,200.7,63.07,Diego,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+266,2023-04-30,2023-05-05,Zapatillas,New Balance,38,141.17,279.7,0,279.7,279.7,141.17,138.53,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+267,2023-05-03,2023-07-09,Gorras,Puma,L,26.11,52.46,15,44.59,44.59,26.11,18.48,Juan,
+268,2023-05-07,2023-07-11,Camiseta,Adidas,XL,19.82,50.47,10,45.42,45.42,19.82,25.6,Ana,
+269,2023-05-12,2023-05-24,Zapatillas,New Balance,39,180.15,267.98,0,267.98,267.98,180.15,87.83,Juan,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+270,2023-05-14,2023-06-17,Pantalones,Wrangler,29,69.89,110.33,20,88.26,88.26,69.89,18.37,María,
+271,2023-05-16,2023-05-24,Zapatillas,New Balance,45,197.59,341.78,5,324.69,324.69,197.59,127.1,Sofía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+272,2023-05-18,2023-07-26,Pantalones,Zara,35,61.83,119.77,15,101.8,101.8,61.83,39.97,Diego,http://localhost:3001/uploads/Pantalones_Zara.jpg
+273,2023-05-29,2023-08-07,Pantalones,Zara,31,54.5,91.24,15,77.55,77.55,54.5,23.05,Carlos,http://localhost:3001/uploads/Pantalones_Zara.jpg
+274,2023-06-03,2023-09-26,Pantalones,Wrangler,34,43.29,85.33,5,81.06,81.06,43.29,37.77,Lucía,
+275,2023-06-05,2023-06-26,Zapatillas,Puma,44,166.94,213.07,20,170.46,170.46,166.94,3.52,Lucía,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+276,2023-06-07,2023-07-24,Pantalones,Levi's,33,68.96,84.14,0,84.14,84.14,68.96,15.18,Sofía,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+277,2023-06-19,2023-07-03,Zapatillas,New Balance,42,170.88,203.79,10,183.41,183.41,170.88,12.53,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+278,2023-06-23,2023-09-17,Zapatillas,Reebok,40,213.82,230.51,0,230.51,230.51,213.82,16.69,Lucía,
+279,2023-06-25,2023-09-07,Zapatillas,Reebok,43,157.42,312.45,15,265.58,265.58,157.42,108.16,Sofía,
+280,2023-07-01,2023-07-20,Gorras,Under Armour,S,20.11,79,10,71.1,71.1,20.11,50.99,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+281,2023-07-06,2023-08-30,Zapatillas,Nike,40,174.21,241.22,0,241.22,241.22,174.21,67.01,Ana,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+282,2023-07-11,2023-08-26,Gorras,Adidas,S,27.66,46.68,0,46.68,46.68,27.66,19.02,Lucía,
+283,2023-07-12,2023-08-02,Zapatillas,Nike,42,133.81,300.43,0,300.43,300.43,133.81,166.62,Pedro,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+284,2023-07-25,2023-10-08,Pantalones,H&M,38,57.37,78.02,0,78.02,78.02,57.37,20.65,Sofía,http://localhost:3001/uploads/Pantalones_H_M.jpg
+285,2023-08-01,2023-09-18,Gorras,Under Armour,XL,17.17,62.65,15,53.25,53.25,17.17,36.08,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+286,2023-08-01,2023-08-17,Pantalones,Levi's,38,60.82,116.5,10,104.85,104.85,60.82,44.03,María,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+287,2023-08-12,2023-10-16,Zapatillas,New Balance,38,174.73,210.62,15,179.03,179.03,174.73,4.3,Sofía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+288,2023-08-21,2023-12-01,Gorras,Nike,M,25.63,38.26,0,38.26,38.26,25.63,12.63,Carlos,
+289,2023-08-24,2023-12-18,Pantalones,Lee,28,54.58,97.44,0,97.44,97.44,54.58,42.86,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+290,2023-08-26,2023-11-29,Pantalones,Lee,38,41.04,106.94,15,90.9,90.9,41.04,49.86,Ana,http://localhost:3001/uploads/Pantalones_Lee.jpg
+291,2023-08-27,2023-09-13,Camiseta,Puma,L,22.38,55.76,10,50.18,50.18,22.38,27.8,Carlos,http://localhost:3001/uploads/Camiseta_Puma.jpg
+292,2023-08-29,2023-12-26,Medias,Puma,S,9.1,13.57,15,11.53,11.53,9.1,2.43,Diego,http://localhost:3001/uploads/Medias_Puma.jpg
+293,2023-09-09,2023-11-20,Pantalones,Zara,32,67.64,84.25,0,84.25,84.25,67.64,16.61,Pedro,http://localhost:3001/uploads/Pantalones_Zara.jpg
+294,2023-09-09,2023-10-09,Gorras,Under Armour,Ajustable,31.15,63.9,0,63.9,63.9,31.15,32.75,Ana,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+295,2023-09-13,2023-11-23,Zapatillas,Puma,39,186.19,231.54,20,185.23,185.23,186.19,-0.96,Juan,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+296,2023-09-18,2023-12-16,Camiseta,H&M,M,27.25,46.93,15,39.89,39.89,27.25,12.64,Pedro,
+297,2023-09-23,2023-09-24,Camiseta,Uniqlo,S,13.74,45.63,15,38.79,38.79,13.74,25.05,María,
+298,2023-09-24,2023-11-03,Zapatillas,Reebok,38,127.2,262.47,0,262.47,262.47,127.2,135.27,Juan,
+299,2023-09-24,2023-12-22,Zapatillas,New Balance,45,128.45,249.62,0,249.62,249.62,128.45,121.17,Carlos,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+300,2023-09-27,2023-10-27,Zapatillas,Nike,44,214.74,278.2,10,250.38,250.38,214.74,35.64,Juan,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+301,2023-10-01,2023-10-15,Pantalones,Lee,28,49.37,97.65,15,83,83,49.37,33.63,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+302,2023-10-02,2024-01-20,Medias,Reebok,L,13.72,19.74,0,19.74,19.74,13.72,6.02,Ana,http://localhost:3001/uploads/Medias_Reebok.jpg
+303,2023-10-04,2023-11-15,Pantalones,H&M,28,51.77,68.34,20,54.67,54.67,51.77,2.9,Juan,http://localhost:3001/uploads/Pantalones_H_M.jpg
+304,2023-10-10,2023-11-21,Camiseta,Nike,M,20.32,40.63,15,34.54,34.54,20.32,14.22,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+305,2023-10-21,2024-01-08,Pantalones,Wrangler,28,41.65,113.2,0,113.2,113.2,41.65,71.55,Sofía,
+306,2023-10-22,2024-01-17,Gorras,Under Armour,M,32.98,74.41,10,66.97,66.97,32.98,33.99,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+307,2023-10-28,2024-01-13,Zapatillas,Puma,45,189,334.04,20,267.23,267.23,189,78.23,Diego,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+308,2023-10-31,2023-12-27,Gorras,Under Armour,L,23.65,38.75,0,38.75,38.75,23.65,15.1,Lucía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+309,2023-11-07,2024-02-23,Pantalones,Levi's,29,56.84,69.97,5,66.47,66.47,56.84,9.63,Juan,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+310,2023-11-08,2023-12-02,Zapatillas,New Balance,41,135.69,343.32,15,291.82,291.82,135.69,156.13,María,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+311,2023-11-10,2024-02-14,Gorras,Adidas,Ajustable,20.3,60.73,10,54.66,54.66,20.3,34.36,Juan,
+312,2023-11-12,2024-01-12,Pantalones,Wrangler,29,61.93,67.68,10,60.91,60.91,61.93,-1.02,Juan,
+313,2023-11-17,2024-03-16,Gorras,Adidas,XL,26.03,79.41,15,67.5,67.5,26.03,41.47,Carlos,
+314,2023-11-18,2024-01-27,Pantalones,Lee,29,64.36,86.26,0,86.26,86.26,64.36,21.9,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+315,2023-11-18,2024-01-10,Medias,Adidas,XL,6.58,16.96,20,13.57,13.57,6.58,6.99,Carlos,http://localhost:3001/uploads/Medias_Adidas.jpg
+316,2023-11-21,2023-11-27,Camiseta,Puma,XS,19.07,34.36,0,34.36,34.36,19.07,15.29,Ana,http://localhost:3001/uploads/Camiseta_Puma.jpg
+317,2023-11-21,2024-02-18,Zapatillas,Nike,40,144.49,301.85,20,241.48,241.48,144.49,96.99,María,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+318,2023-11-23,2023-12-31,Camiseta,Uniqlo,XL,19.36,40.24,5,38.23,38.23,19.36,18.87,Juan,
+319,2023-11-24,2024-02-24,Medias,Reebok,M,14.61,17.64,5,16.76,16.76,14.61,2.15,Diego,http://localhost:3001/uploads/Medias_Reebok.jpg
+320,2023-11-27,2024-03-04,Medias,Nike,L,10.42,15.84,5,15.05,15.05,10.42,4.63,Lucía,http://localhost:3001/uploads/Medias_Nike.jpg
+321,2023-11-29,2024-03-04,Gorras,Adidas,S,25,31.08,0,31.08,31.08,25,6.08,Lucía,
+322,2023-12-02,2024-02-23,Camiseta,H&M,L,13.07,41.43,0,41.43,41.43,13.07,28.36,Ana,
+323,2023-12-15,2024-02-15,Camiseta,Uniqlo,M,26.83,55.23,10,49.71,49.71,26.83,22.88,María,
+324,2023-12-20,2023-12-28,Pantalones,Lee,33,56.14,92.52,15,78.64,78.64,56.14,22.5,María,http://localhost:3001/uploads/Pantalones_Lee.jpg
+325,2023-12-22,2024-02-21,Pantalones,Levi's,32,42.73,80.93,0,80.93,80.93,42.73,38.2,Lucía,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+326,2023-12-23,2024-03-06,Gorras,Nike,M,15.14,77.76,20,62.21,62.21,15.14,47.07,Lucía,
+327,2023-12-25,2024-03-02,Gorras,New Era,L,34.22,43.43,0,43.43,43.43,34.22,9.21,Lucía,
+328,2023-12-25,2024-01-07,Gorras,Under Armour,S,18.68,60.72,0,60.72,60.72,18.68,42.04,Carlos,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+329,2023-12-28,2024-02-03,Pantalones,Levi's,29,50.69,83.1,5,78.94,78.94,50.69,28.25,Diego,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+330,2023-12-29,2024-01-15,Medias,Nike,XL,6.95,28.13,10,25.32,25.32,6.95,18.37,María,http://localhost:3001/uploads/Medias_Nike.jpg
+331,2024-01-02,2024-03-16,Zapatillas,Puma,44,170.38,273.43,10,246.09,246.09,170.38,75.71,Pedro,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+332,2024-01-07,2024-01-24,Gorras,New Era,S,26.33,76.63,15,65.14,65.14,26.33,38.81,María,
+333,2024-01-11,2024-04-20,Pantalones,H&M,35,47.34,98.24,20,78.59,78.59,47.34,31.25,Sofía,http://localhost:3001/uploads/Pantalones_H_M.jpg
+334,2024-01-16,2024-04-04,Zapatillas,Reebok,41,147.99,278.82,5,264.88,264.88,147.99,116.89,Ana,
+335,2024-01-22,2024-04-01,Medias,Hanes,M,11.58,26.39,0,26.39,26.39,11.58,14.81,Pedro,
+336,2024-01-22,2024-04-27,Pantalones,Wrangler,30,48.02,95.42,10,85.88,85.88,48.02,37.86,Ana,
+337,2024-01-27,2024-02-02,Zapatillas,Reebok,45,126.68,195.21,5,185.45,185.45,126.68,58.77,Ana,
+338,2024-02-01,2024-05-28,Medias,Puma,S,9.69,18.49,0,18.49,18.49,9.69,8.8,Ana,http://localhost:3001/uploads/Medias_Puma.jpg
+339,2024-02-10,2024-03-22,Pantalones,H&M,34,54.91,98.36,0,98.36,98.36,54.91,43.45,Lucía,http://localhost:3001/uploads/Pantalones_H_M.jpg
+340,2024-02-15,2024-06-03,Pantalones,Wrangler,38,47.64,89.61,15,76.17,76.17,47.64,28.53,Sofía,
+341,2024-02-16,2024-05-11,Gorras,Under Armour,XL,17.26,77.61,15,65.97,65.97,17.26,48.71,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+342,2024-02-21,2024-06-05,Zapatillas,Nike,43,137.02,300.83,0,300.83,300.83,137.02,163.81,Sofía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+343,2024-03-04,2024-06-27,Camiseta,Nike,L,13.23,47.65,5,45.27,45.27,13.23,32.04,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+344,2024-03-07,2024-04-15,Medias,Adidas,L,12.9,15.8,0,15.8,15.8,12.9,2.9,Sofía,http://localhost:3001/uploads/Medias_Adidas.jpg
+345,2024-03-09,2024-05-18,Medias,Hanes,L,9.56,18.5,20,14.8,14.8,9.56,5.24,María,
+346,2024-03-11,2024-05-25,Medias,Hanes,XL,5.34,22.8,0,22.8,22.8,5.34,17.46,Carlos,
+347,2024-03-14,2024-05-08,Gorras,Adidas,S,30.81,45.38,0,45.38,45.38,30.81,14.57,Ana,
+348,2024-03-22,2024-04-13,Pantalones,Levi's,34,60.21,63.4,5,60.23,60.23,60.21,0.02,Ana,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+349,2024-03-24,2024-06-14,Medias,Adidas,XL,12.01,20.5,5,19.47,19.47,12.01,7.46,Sofía,http://localhost:3001/uploads/Medias_Adidas.jpg
+350,2024-03-24,2024-06-08,Medias,Hanes,S,14.01,22.6,20,18.08,18.08,14.01,4.07,Sofía,
+351,2024-03-27,2024-04-21,Zapatillas,Puma,38,164.41,220.56,20,176.45,176.45,164.41,12.04,Sofía,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+352,2024-03-30,2024-06-30,Zapatillas,Reebok,42,173.09,243.64,20,194.91,194.91,173.09,21.82,María,
+353,2024-03-31,2024-07-08,Gorras,Puma,M,35,40.99,10,36.89,36.89,35,1.89,Diego,
+354,2024-03-31,2024-05-21,Zapatillas,Nike,43,173.61,258.31,0,258.31,258.31,173.61,84.7,Sofía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+355,2024-04-01,2024-04-05,Medias,Reebok,Única,6.63,18.79,10,16.91,16.91,6.63,10.28,Ana,http://localhost:3001/uploads/Medias_Reebok.jpg
+356,2024-04-02,2024-07-04,Pantalones,Wrangler,28,47.44,84.92,20,67.94,67.94,47.44,20.5,Pedro,
+357,2024-04-04,2024-06-10,Medias,Reebok,S,9.98,21.36,15,18.16,18.16,9.98,8.18,Pedro,http://localhost:3001/uploads/Medias_Reebok.jpg
+358,2024-04-09,2024-05-07,Medias,Reebok,Única,5.42,20.46,0,20.46,20.46,5.42,15.04,Lucía,http://localhost:3001/uploads/Medias_Reebok.jpg
+359,2024-04-13,2024-05-14,Camiseta,H&M,XS,14.86,59.66,15,50.71,50.71,14.86,35.85,María,
+360,2024-04-13,2024-07-22,Gorras,Under Armour,S,37.35,76.63,0,76.63,76.63,37.35,39.28,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+361,2024-04-15,2024-07-15,Pantalones,Wrangler,31,50.68,109.33,0,109.33,109.33,50.68,58.65,Sofía,
+362,2024-04-16,2024-04-22,Gorras,Under Armour,Ajustable,34.44,45.19,0,45.19,45.19,34.44,10.75,Juan,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+363,2024-04-17,2024-07-16,Camiseta,Adidas,XS,11.87,51.06,0,51.06,51.06,11.87,39.19,Juan,
+364,2024-04-19,2024-04-27,Gorras,Adidas,XL,28.54,54.41,10,48.97,48.97,28.54,20.43,Diego,
+365,2024-04-20,2024-05-26,Pantalones,Wrangler,29,47.3,63.87,10,57.48,57.48,47.3,10.18,Lucía,
+366,2024-04-27,2024-06-23,Zapatillas,New Balance,39,185.46,235.48,0,235.48,235.48,185.46,50.02,Pedro,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+367,2024-04-29,2024-06-05,Pantalones,Levi's,29,63.34,97.9,10,88.11,88.11,63.34,24.77,Lucía,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+368,2024-05-09,2024-05-27,Zapatillas,Nike,40,140.1,189.34,15,160.94,160.94,140.1,20.84,Carlos,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+369,2024-05-15,2024-05-17,Camiseta,H&M,L,34.58,44.2,5,41.99,41.99,34.58,7.41,Lucía,
+370,2024-05-16,2024-07-15,Gorras,Puma,XL,19.78,58.77,15,49.95,49.95,19.78,30.17,Ana,
+371,2024-05-17,2024-07-17,Medias,Reebok,M,11.4,24.81,5,23.57,23.57,11.4,12.17,Carlos,http://localhost:3001/uploads/Medias_Reebok.jpg
+372,2024-05-18,2024-08-29,Gorras,Under Armour,Ajustable,23.41,69.56,15,59.13,59.13,23.41,35.72,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+373,2024-05-19,2024-09-16,Medias,Nike,XL,12.72,13.48,10,12.13,12.13,12.72,-0.59,María,http://localhost:3001/uploads/Medias_Nike.jpg
+374,2024-05-21,2024-06-26,Camiseta,Puma,S,17.5,35.92,0,35.92,35.92,17.5,18.42,Sofía,http://localhost:3001/uploads/Camiseta_Puma.jpg
+375,2024-05-22,2024-06-30,Camiseta,Nike,M,33.73,53.9,0,53.9,53.9,33.73,20.17,Sofía,http://localhost:3001/uploads/Camiseta_Nike.jpg
+376,2024-05-27,2024-07-23,Gorras,Puma,S,18.45,45.36,20,36.29,36.29,18.45,17.84,Lucía,
+377,2024-05-30,2024-07-23,Pantalones,Lee,31,65.28,112.65,15,95.75,95.75,65.28,30.47,María,http://localhost:3001/uploads/Pantalones_Lee.jpg
+378,2024-06-06,2024-09-08,Medias,Hanes,M,10.17,19.59,0,19.59,19.59,10.17,9.42,Carlos,
+379,2024-06-07,2024-09-30,Zapatillas,New Balance,42,147.46,297.91,0,297.91,297.91,147.46,150.45,Pedro,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+380,2024-06-08,2024-06-21,Zapatillas,New Balance,39,180.85,253.17,20,202.54,202.54,180.85,21.69,Sofía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+381,2024-06-15,2024-07-03,Zapatillas,Reebok,40,151.68,330.45,10,297.4,297.4,151.68,145.72,Lucía,
+382,2024-06-21,2024-10-10,Pantalones,Zara,31,67.35,72.48,0,72.48,72.48,67.35,5.13,Diego,http://localhost:3001/uploads/Pantalones_Zara.jpg
+383,2024-06-21,2024-08-25,Pantalones,Zara,29,56.22,76.83,0,76.83,76.83,56.22,20.61,María,http://localhost:3001/uploads/Pantalones_Zara.jpg
+384,2024-06-26,2024-09-03,Gorras,Under Armour,XL,38.3,58.31,15,49.56,49.56,38.3,11.26,Sofía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+385,2024-06-27,2024-08-15,Zapatillas,Adidas,41,197.49,327.48,0,327.48,327.48,197.49,129.99,Carlos,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+386,2024-06-28,2024-07-02,Gorras,Adidas,Ajustable,24.82,35.86,15,30.48,30.48,24.82,5.66,Pedro,
+387,2024-06-28,2024-07-25,Pantalones,Wrangler,32,45.64,118.33,0,118.33,118.33,45.64,72.69,Diego,
+388,2024-07-05,2024-08-11,Zapatillas,Puma,42,152.77,303.52,15,257.99,257.99,152.77,105.22,Juan,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+389,2024-07-10,2024-10-08,Medias,Nike,L,6.46,19.89,5,18.9,18.9,6.46,12.44,Pedro,http://localhost:3001/uploads/Medias_Nike.jpg
+390,2024-07-15,2024-08-25,Camiseta,Uniqlo,S,10.56,37.68,10,33.91,33.91,10.56,23.35,Lucía,
+391,2024-07-23,2024-11-01,Medias,Nike,Única,8.59,29.2,20,23.36,23.36,8.59,14.77,Juan,http://localhost:3001/uploads/Medias_Nike.jpg
+392,2024-07-28,2024-09-15,Gorras,Puma,Ajustable,28.69,67.52,0,67.52,67.52,28.69,38.83,Juan,
+393,2024-08-01,2024-09-22,Zapatillas,New Balance,43,181.18,295.73,20,236.58,236.58,181.18,55.4,Lucía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+394,2024-08-10,2024-09-29,Camiseta,H&M,S,26.6,49.89,0,49.89,49.89,26.6,23.29,Ana,
+395,2024-08-13,2024-12-07,Medias,Puma,Única,9.39,29.28,20,23.42,23.42,9.39,14.03,Lucía,http://localhost:3001/uploads/Medias_Puma.jpg
+396,2024-08-18,2024-11-16,Pantalones,Zara,37,43.32,92.83,10,83.55,83.55,43.32,40.23,Ana,http://localhost:3001/uploads/Pantalones_Zara.jpg
+397,2024-08-18,2024-11-21,Medias,Hanes,L,12.78,14.55,20,11.64,11.64,12.78,-1.14,Pedro,
+398,2024-08-18,2024-08-29,Camiseta,Adidas,XS,12.72,51.93,10,46.74,46.74,12.72,34.02,Juan,
+399,2024-08-25,2024-09-13,Camiseta,Adidas,XS,21.4,37.56,0,37.56,37.56,21.4,16.16,Juan,
+400,2024-08-28,2024-12-22,Gorras,New Era,XL,26.36,57.86,5,54.97,54.97,26.36,28.61,Pedro,
+401,2024-08-29,2024-11-19,Zapatillas,Reebok,43,171.93,196.86,10,177.17,177.17,171.93,5.24,María,
+402,2024-09-02,2024-10-13,Gorras,New Era,S,17.82,79.7,5,75.72,75.72,17.82,57.9,Ana,
+403,2024-09-02,2024-10-12,Zapatillas,Reebok,42,163.5,253.86,5,241.17,241.17,163.5,77.67,Diego,
+404,2024-09-04,2024-12-11,Camiseta,Puma,XS,15.45,38.78,20,31.02,31.02,15.45,15.57,Ana,http://localhost:3001/uploads/Camiseta_Puma.jpg
+405,2024-09-05,2024-10-21,Pantalones,Zara,33,64.35,112.5,20,90,90,64.35,25.65,Pedro,http://localhost:3001/uploads/Pantalones_Zara.jpg
+406,2024-09-10,2024-12-02,Zapatillas,Adidas,41,161.03,326.31,10,293.68,293.68,161.03,132.65,Sofía,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+407,2024-09-12,2024-11-10,Pantalones,H&M,30,65.2,96.25,0,96.25,96.25,65.2,31.05,Juan,http://localhost:3001/uploads/Pantalones_H_M.jpg
+408,2024-09-25,2025-01-22,Pantalones,Wrangler,35,61.58,111.99,0,111.99,111.99,61.58,50.41,Diego,
+409,2024-09-30,2024-12-20,Medias,Nike,M,11.88,21.18,0,21.18,21.18,11.88,9.3,Lucía,http://localhost:3001/uploads/Medias_Nike.jpg
+410,2024-10-01,2025-01-02,Gorras,Puma,S,29.1,54.95,20,43.96,43.96,29.1,14.86,Sofía,
+411,2024-10-04,2024-12-13,Pantalones,Wrangler,38,44.05,63.75,0,63.75,63.75,44.05,19.7,Juan,
+412,2024-10-08,2024-11-03,Camiseta,Uniqlo,S,16.39,49.08,20,39.26,39.26,16.39,22.87,Sofía,
+413,2024-10-10,2025-01-11,Camiseta,Nike,L,31.12,52.25,0,52.25,52.25,31.12,21.13,Ana,http://localhost:3001/uploads/Camiseta_Nike.jpg
+414,2024-10-11,2024-11-10,Medias,Reebok,XL,14.63,15.38,5,14.61,14.61,14.63,-0.02,María,http://localhost:3001/uploads/Medias_Reebok.jpg
+415,2024-10-23,2024-11-01,Gorras,Puma,Ajustable,35.15,59.12,0,59.12,59.12,35.15,23.97,María,
+416,2024-10-28,2025-02-12,Pantalones,Lee,33,41.32,62.64,20,50.11,50.11,41.32,8.79,Juan,http://localhost:3001/uploads/Pantalones_Lee.jpg
+417,2024-10-31,2024-12-19,Medias,Puma,Única,5.19,11.77,0,11.77,11.77,5.19,6.58,Sofía,http://localhost:3001/uploads/Medias_Puma.jpg
+418,2024-11-01,2024-11-17,Medias,Hanes,L,11.34,18.1,0,18.1,18.1,11.34,6.76,María,
+419,2024-11-05,2025-01-12,Gorras,Under Armour,Ajustable,20.32,76.97,0,76.97,76.97,20.32,56.65,Carlos,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+420,2024-11-05,2025-01-23,Medias,Puma,XL,11.69,18.05,0,18.05,18.05,11.69,6.36,Pedro,http://localhost:3001/uploads/Medias_Puma.jpg
+421,2024-11-06,2024-11-19,Gorras,Adidas,XL,33.49,75.46,15,64.14,64.14,33.49,30.65,Diego,
+422,2024-11-13,2024-12-12,Gorras,New Era,XL,38.93,53.43,0,53.43,53.43,38.93,14.5,Lucía,
+423,2024-11-19,2025-02-08,Camiseta,Uniqlo,M,20.12,29.89,5,28.4,28.4,20.12,8.28,María,
+424,2024-11-21,2025-02-16,Gorras,Puma,L,22.67,76.58,0,76.58,76.58,22.67,53.91,Sofía,
+425,2024-11-24,2025-01-02,Gorras,Adidas,XL,32.26,75.97,0,75.97,75.97,32.26,43.71,Juan,
+426,2024-11-27,2025-01-04,Camiseta,H&M,L,33.87,46.45,0,46.45,46.45,33.87,12.58,María,
+427,2024-11-29,2024-12-18,Gorras,New Era,S,17.11,55.17,20,44.14,44.14,17.11,27.03,Carlos,
+428,2024-11-30,2025-02-20,Gorras,New Era,L,19.02,70.14,20,56.11,56.11,19.02,37.09,Carlos,
+429,2024-12-02,2025-02-18,Medias,Hanes,S,6.19,17.61,0,17.61,17.61,6.19,11.42,Lucía,
+430,2024-12-15,2025-03-20,Camiseta,Adidas,S,22.05,44.22,0,44.22,44.22,22.05,22.17,Carlos,
+431,2024-12-23,2025-02-16,Pantalones,Zara,38,62.6,70.05,0,70.05,70.05,62.6,7.45,Sofía,http://localhost:3001/uploads/Pantalones_Zara.jpg
+432,2025-01-01,2025-04-15,Gorras,Adidas,S,16.71,71.15,15,60.48,60.48,16.71,43.77,María,
+433,2025-01-02,2025-01-29,Medias,Nike,M,12.86,14.5,15,12.32,12.32,12.86,-0.54,Pedro,http://localhost:3001/uploads/Medias_Nike.jpg
+434,2025-01-15,2025-04-23,Pantalones,Lee,32,55.21,80.1,10,72.09,72.09,55.21,16.88,Juan,http://localhost:3001/uploads/Pantalones_Lee.jpg
+435,2025-01-17,2025-05-03,Pantalones,Levi's,35,43.59,116.81,0,116.81,116.81,43.59,73.22,Ana,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+436,2025-01-23,2025-02-08,Zapatillas,Puma,42,155.3,320.29,0,320.29,320.29,155.3,164.99,Pedro,http://localhost:3001/uploads/Zapatillas_Puma.jpg
+437,2025-01-28,2025-04-27,Pantalones,Lee,33,43.97,67.96,0,67.96,67.96,43.97,23.99,Sofía,http://localhost:3001/uploads/Pantalones_Lee.jpg
+438,2025-01-30,2025-02-22,Gorras,New Era,L,36.81,78.1,0,78.1,78.1,36.81,41.29,Lucía,
+439,2025-02-07,2025-04-17,Gorras,Under Armour,M,16.91,26.74,5,25.4,25.4,16.91,8.49,Diego,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+440,2025-02-10,2025-06-07,Camiseta,Puma,S,25.11,53.65,0,53.65,53.65,25.11,28.54,Carlos,http://localhost:3001/uploads/Camiseta_Puma.jpg
+441,2025-02-11,2025-03-14,Medias,Hanes,XL,14.78,20.37,0,20.37,20.37,14.78,5.59,Carlos,
+442,2025-02-11,2025-05-22,Camiseta,Nike,XL,33.98,52.27,5,49.66,49.66,33.98,15.68,María,http://localhost:3001/uploads/Camiseta_Nike.jpg
+443,2025-03-04,2025-07-02,Zapatillas,Nike,41,148.32,205.31,20,164.25,164.25,148.32,15.93,Sofía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+444,2025-03-11,2025-03-28,Gorras,Adidas,XL,30.77,71.89,20,57.51,57.51,30.77,26.74,María,
+445,2025-03-11,2025-04-08,Camiseta,Uniqlo,XL,23.46,46.45,20,37.16,37.16,23.46,13.7,Carlos,
+446,2025-03-12,2025-05-17,Camiseta,Nike,L,26.72,37.22,0,37.22,37.22,26.72,10.5,Juan,http://localhost:3001/uploads/Camiseta_Nike.jpg
+447,2025-03-17,2025-04-29,Zapatillas,Reebok,39,197.4,243.3,10,218.97,218.97,197.4,21.57,Ana,
+448,2025-03-28,2025-07-12,Gorras,Under Armour,XL,24.28,59.44,15,50.52,50.52,24.28,26.24,Carlos,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+449,2025-03-29,2025-04-15,Camiseta,Uniqlo,L,12.77,52.43,0,52.43,52.43,12.77,39.66,Diego,
+450,2025-03-30,2025-07-26,Camiseta,Nike,XS,34.46,48.97,20,39.18,39.18,34.46,4.72,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+451,2025-03-31,2025-04-29,Pantalones,H&M,34,46.6,71.72,0,71.72,71.72,46.6,25.12,Juan,http://localhost:3001/uploads/Pantalones_H_M.jpg
+452,2025-04-07,2025-06-12,Pantalones,Levi's,38,62.89,66.64,5,63.31,63.31,62.89,0.42,María,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+453,2025-04-13,2025-08-10,Zapatillas,Adidas,38,127.4,234.03,0,234.03,234.03,127.4,106.63,Juan,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+454,2025-04-15,2025-06-07,Camiseta,Uniqlo,M,22.02,31.15,0,31.15,31.15,22.02,9.13,Lucía,
+455,2025-04-18,2025-06-04,Gorras,Under Armour,L,31.51,66.77,10,60.09,60.09,31.51,28.58,Diego,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+456,2025-04-23,2025-07-08,Gorras,Puma,M,22.21,59.26,5,56.3,56.3,22.21,34.09,Sofía,
+457,2025-04-30,2025-05-20,Zapatillas,Reebok,43,166.15,257.98,5,245.08,245.08,166.15,78.93,Juan,
+458,2025-05-16,2025-06-04,Camiseta,Uniqlo,XL,24.19,25.82,15,21.95,21.95,24.19,-2.24,María,
+459,2025-05-23,2025-06-02,Gorras,Nike,M,28.18,37.19,15,31.61,31.61,28.18,3.43,Juan,
+460,2025-05-26,2025-09-20,Camiseta,H&M,XS,32.61,56.27,20,45.02,45.02,32.61,12.41,María,
+461,2025-05-27,2025-06-01,Zapatillas,New Balance,39,196.54,304.61,0,304.61,304.61,196.54,108.07,Pedro,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+462,2025-06-07,2025-10-05,Camiseta,Nike,M,28.39,33.5,15,28.47,28.47,28.39,0.08,Carlos,http://localhost:3001/uploads/Camiseta_Nike.jpg
+463,2025-06-09,2025-08-31,Camiseta,Adidas,S,22.44,30.06,5,28.56,28.56,22.44,6.12,María,
+464,2025-06-13,2025-08-11,Medias,Adidas,S,14.75,18.98,15,16.13,16.13,14.75,1.38,Lucía,http://localhost:3001/uploads/Medias_Adidas.jpg
+465,2025-06-23,2025-09-09,Gorras,Nike,S,34.56,61.86,15,52.58,52.58,34.56,18.02,Ana,
+466,2025-06-29,2025-07-17,Pantalones,Lee,37,46.33,80.97,0,80.97,80.97,46.33,34.64,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+467,2025-07-03,2025-10-05,Zapatillas,Adidas,44,216.74,235.87,10,212.28,212.28,216.74,-4.46,Diego,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+468,2025-07-04,2025-09-07,Zapatillas,Adidas,44,178.57,223.8,0,223.8,223.8,178.57,45.23,Ana,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+469,2025-07-14,2025-07-23,Gorras,New Era,L,36.38,49.37,0,49.37,49.37,36.38,12.99,Juan,
+470,2025-07-26,2025-11-22,Medias,Nike,S,5.86,25.59,5,24.31,24.31,5.86,18.45,Lucía,http://localhost:3001/uploads/Medias_Nike.jpg
+471,2025-07-27,2025-09-19,Camiseta,Adidas,L,19.13,54.83,0,54.83,54.83,19.13,35.7,Lucía,
+472,2025-07-31,2025-11-13,Gorras,Under Armour,S,31.69,38.73,15,32.92,32.92,31.69,1.23,Sofía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+473,2025-08-04,2025-10-09,Pantalones,Levi's,29,52.88,96.97,20,77.58,77.58,52.88,24.7,María,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+474,2025-08-17,2025-11-20,Gorras,Under Armour,S,30.38,65.35,0,65.35,65.35,30.38,34.97,María,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+475,2025-08-17,2025-09-22,Zapatillas,Reebok,42,127.48,331.89,15,282.11,282.11,127.48,154.63,Pedro,
+476,2025-08-19,2025-11-08,Medias,Hanes,M,5.76,29.57,20,23.66,23.66,5.76,17.9,Diego,
+477,2025-08-19,2025-10-17,Pantalones,Levi's,31,57.56,104.68,5,99.45,99.45,57.56,41.89,Carlos,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+478,2025-08-21,2025-10-31,Zapatillas,Adidas,38,133.27,334.99,0,334.99,334.99,133.27,201.72,Carlos,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+479,2025-08-23,2025-10-13,Zapatillas,New Balance,40,153.3,338.35,0,338.35,338.35,153.3,185.05,Lucía,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+480,2025-08-27,2025-09-04,Pantalones,Lee,34,62.79,107.56,0,107.56,107.56,62.79,44.77,Carlos,http://localhost:3001/uploads/Pantalones_Lee.jpg
+481,2025-08-28,2025-11-19,Zapatillas,Adidas,40,138.74,311.86,10,280.67,280.67,138.74,141.93,Sofía,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+482,2025-09-07,2025-09-15,Gorras,Under Armour,M,25.99,30.2,0,30.2,30.2,25.99,4.21,Ana,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+483,2025-09-08,2025-11-17,Zapatillas,Reebok,44,163.05,278.42,0,278.42,278.42,163.05,115.37,Ana,
+484,2025-09-11,2025-11-09,Zapatillas,Adidas,42,144.72,289.96,0,289.96,289.96,144.72,145.24,Sofía,http://localhost:3001/uploads/Zapatillas_Adidas.jpg
+485,2025-09-15,2025-10-31,Gorras,Under Armour,M,31.63,63.49,10,57.14,57.14,31.63,25.51,Sofía,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+486,2025-09-16,2025-10-26,Gorras,Nike,Ajustable,26.61,40.97,0,40.97,40.97,26.61,14.36,Ana,
+487,2025-09-24,2025-11-20,Zapatillas,Nike,45,159.96,185.23,0,185.23,185.23,159.96,25.27,Sofía,http://localhost:3001/uploads/Zapatillas_Nike.jpg
+488,2025-10-06,2025-10-17,Pantalones,Levi's,28,54.1,100.63,0,100.63,100.63,54.1,46.53,Juan,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+489,2025-10-15,2025-11-22,Medias,Adidas,L,9.53,26.7,0,26.7,26.7,9.53,17.17,Pedro,http://localhost:3001/uploads/Medias_Adidas.jpg
+490,2025-10-15,2025-10-17,Pantalones,Levi's,28,40.17,102.92,0,102.92,102.92,40.17,62.75,Carlos,http://localhost:3001/uploads/Pantalones_Levi_s.jpg
+491,2025-10-15,2025-11-23,Gorras,Puma,S,21.25,47.29,0,47.29,47.29,21.25,26.04,Lucía,
+492,2025-10-19,2025-10-30,Gorras,Under Armour,XL,38.91,73.55,5,69.87,69.87,38.91,30.96,Diego,http://localhost:3001/uploads/Gorras_Under_Armour.jpg
+493,2025-10-20,2025-11-03,Medias,Puma,S,14.17,15.3,0,15.3,15.3,14.17,1.13,Juan,http://localhost:3001/uploads/Medias_Puma.jpg
+494,2025-10-24,2025-11-02,Zapatillas,New Balance,44,184.83,331.77,0,331.77,331.77,184.83,146.94,Juan,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+495,2025-11-02,2025-11-20,Zapatillas,New Balance,40,219.9,283.52,0,283.52,283.52,219.9,63.62,Ana,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
+496,2025-11-03,2025-11-19,Gorras,Puma,L,30.1,37.16,0,37.16,37.16,30.1,7.06,Diego,
+497,2025-11-03,2025-11-25,Pantalones,Wrangler,36,51.39,63.89,15,54.31,54.31,51.39,2.92,Pedro,
+498,2025-11-07,2025-11-22,Camiseta,H&M,L,21.81,27.68,20,22.14,22.14,21.81,0.33,Ana,
+499,2025-11-16,2025-11-23,Gorras,Puma,L,19.32,63.69,0,63.69,63.69,19.32,44.37,Sofía,
+500,2025-11-25,2025-11-27,Zapatillas,New Balance,38,132.44,342.02,20,273.62,273.62,132.44,141.18,Carlos,http://localhost:3001/uploads/Zapatillas_New_Balance.jpg
